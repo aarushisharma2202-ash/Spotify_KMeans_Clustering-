@@ -74,8 +74,7 @@ These clusters can help streaming platforms **curate playlists, recommend songs*
 
 Determined the optimal number of clusters (k) using the Elbow Method. The plateau point indicates the best k value.
 
-![Elbow Method Plot](![image](https://github.com/user-attachments/assets/6dd33f90-b9fb-4a8c-bf07-82c5020a5d4e)
-)
+![Elbow Method Plot](<img width="571" height="455" alt="1" src="https://github.com/user-attachments/assets/04baf310-45e5-4794-8744-ca6c5bde94e6" />)
 
 ---
 
@@ -83,8 +82,7 @@ Determined the optimal number of clusters (k) using the Elbow Method. The platea
 
 Shows how songs are grouped into clusters based on their audio features and popularity.
 
-![Cluster Scatter Plot](![image](https://github.com/user-attachments/assets/7c7991b9-bfa5-4126-ae99-a483cdb93a1d)
-)
+![Cluster Scatter Plot](<img width="567" height="455" alt="2" src="https://github.com/user-attachments/assets/0850d62c-43c0-4d9b-aa3c-ed5f70da3afb" />)
 
 
 ---
